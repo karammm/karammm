@@ -40,7 +40,7 @@ Hi, I'm Karamjit Verma👋 Versatile computer science student experienced in Pro
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karammm&layout=compact&theme=vue-dark" />
     
-### Languages and Tools 🛠️:
+## Languages and Tools 🛠️:
 <p align="center">
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -58,7 +58,7 @@ Hi, I'm Karamjit Verma👋 Versatile computer science student experienced in Pro
 <br />
 <br />
 <p/>
- <br>
+ 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/karamjit-verma/">LinkedIn</a> 💼
 - Wanna chat? :point_right: @ me on <a href="mailto:karamjitverma89@gmail.com">Gmail</a> 📧
