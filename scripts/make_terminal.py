@@ -15,10 +15,16 @@ PROMPT = "karamjit@github:~$ "
 # Output text can colour words with {{word|class}} where class is one of: key, val, accent, dim.
 LINES = [
     ("cmd", "whoami"),
-    ("out", "{{Karamjit Verma|key}} · Software Engineer · Full-Stack · {{AWS Certified|accent}}"),
+    ("out", "{{Karamjit Verma|key}} · {{Senior Software Engineer|accent}} @ {{OptiValue Tek|val}} · Full-Stack"),
     ("cmd", "cat about.txt"),
-    ("out", "5 years building production web apps, APIs and cloud deployments."),
-    ("out", "{{Ameha Technologies|val}} · New Delhi, India"),
+    ("out", "5+ years building production web apps, APIs and cloud deployments."),
+    ("out", "Delhi, India · working remotely"),
+    ("cmd", "cat experience.log"),
+    ("out", "{{2025–now  |key}}  Senior Software Engineer · {{OptiValue Tek|val}}"),
+    ("out", "{{2025      |key}}  Senior Software Engineer · {{InCred Financial Services|val}}"),
+    ("out", "{{2023–2025 |key}}  Software Engineer        · {{Builder.ai|val}}"),
+    ("out", "{{2021–2023 |key}}  SDE                      · {{Ameha Technologies|val}}"),
+    ("out", "{{cert      |key}}  AWS Certified Solutions Architect – Associate {{(2020–2023)|dim}}"),
     ("cmd", "stack --top"),
     ("out", "{{frontend|key}}   Angular · React · JavaScript · TypeScript"),
     ("out", "{{mobile  |key}}   React Native"),
@@ -78,8 +84,10 @@ def build() -> str:
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{height}" '
         f'viewBox="0 0 {W} {height}" role="img" aria-labelledby="t d">',
         "<title id='t'>Karamjit Verma — terminal introduction</title>",
-        "<desc id='d'>An animated terminal: Karamjit Verma, Software Engineer, full-stack and AWS "
-        "certified, 5 years of experience at Ameha Technologies in New Delhi. Stack: Angular, React, React Native, "
+        "<desc id='d'>An animated terminal: Karamjit Verma, Senior Software Engineer at OptiValue "
+        "Tek, full-stack, 5+ years of experience, Delhi, India. Experience: OptiValue Tek, InCred "
+        "Financial Services, Builder.ai, Ameha Technologies. AWS Certified Solutions Architect – "
+        "Associate (2020–2023). Stack: Angular, React, React Native, "
         "JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker. Open source: openmoderate "
         "and SafeType.js. Contact: LinkedIn karamjit-verma.</desc>",
         f"<style>{css}</style>",

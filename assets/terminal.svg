@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="494" viewBox="0 0 900 494" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="644" viewBox="0 0 900 644" role="img" aria-labelledby="t d">
 <title id='t'>Karamjit Verma — terminal introduction</title>
-<desc id='d'>An animated terminal: Karamjit Verma, Software Engineer, full-stack and AWS certified, 5 years of experience at Ameha Technologies in New Delhi. Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker. Open source: openmoderate and SafeType.js. Contact: LinkedIn karamjit-verma.</desc>
+<desc id='d'>An animated terminal: Karamjit Verma, Senior Software Engineer at OptiValue Tek, full-stack, 5+ years of experience, Delhi, India. Experience: OptiValue Tek, InCred Financial Services, Builder.ai, Ameha Technologies. AWS Certified Solutions Architect – Associate (2020–2023). Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker. Open source: openmoderate and SafeType.js. Contact: LinkedIn karamjit-verma.</desc>
 <style>@keyframes l0 { 0%, 7.50% { opacity: 0 } 8.00%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
 @keyframes l1 { 0%, 11.67% { opacity: 0 } 12.17%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
 @keyframes l2 { 0%, 16.39% { opacity: 0 } 16.89%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
@@ -11,12 +11,18 @@
 @keyframes l7 { 0%, 32.78% { opacity: 0 } 33.28%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
 @keyframes l8 { 0%, 34.44% { opacity: 0 } 34.94%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
 @keyframes l9 { 0%, 36.11% { opacity: 0 } 36.61%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
-@keyframes l10 { 0%, 40.83% { opacity: 0 } 41.33%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
-@keyframes l11 { 0%, 45.00% { opacity: 0 } 45.50%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l10 { 0%, 37.78% { opacity: 0 } 38.28%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l11 { 0%, 42.50% { opacity: 0 } 43.00%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
 @keyframes l12 { 0%, 46.67% { opacity: 0 } 47.17%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
-@keyframes l13 { 0%, 51.39% { opacity: 0 } 51.89%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
-@keyframes l14 { 0%, 55.56% { opacity: 0 } 56.06%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
-@keyframes l15 { 0%, 57.22% { opacity: 0 } 57.72%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l13 { 0%, 48.33% { opacity: 0 } 48.83%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l14 { 0%, 50.00% { opacity: 0 } 50.50%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l15 { 0%, 51.67% { opacity: 0 } 52.17%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l16 { 0%, 56.39% { opacity: 0 } 56.89%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l17 { 0%, 60.56% { opacity: 0 } 61.06%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l18 { 0%, 62.22% { opacity: 0 } 62.72%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l19 { 0%, 66.94% { opacity: 0 } 67.44%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l20 { 0%, 71.11% { opacity: 0 } 71.61%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
+@keyframes l21 { 0%, 72.78% { opacity: 0 } 73.28%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
 .l0 { opacity: 0; animation: l0 18.0s linear infinite; }
 .l1 { opacity: 0; animation: l1 18.0s linear infinite; }
 .l2 { opacity: 0; animation: l2 18.0s linear infinite; }
@@ -33,6 +39,12 @@
 .l13 { opacity: 0; animation: l13 18.0s linear infinite; }
 .l14 { opacity: 0; animation: l14 18.0s linear infinite; }
 .l15 { opacity: 0; animation: l15 18.0s linear infinite; }
+.l16 { opacity: 0; animation: l16 18.0s linear infinite; }
+.l17 { opacity: 0; animation: l17 18.0s linear infinite; }
+.l18 { opacity: 0; animation: l18 18.0s linear infinite; }
+.l19 { opacity: 0; animation: l19 18.0s linear infinite; }
+.l20 { opacity: 0; animation: l20 18.0s linear infinite; }
+.l21 { opacity: 0; animation: l21 18.0s linear infinite; }
   text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 15px; white-space: pre; fill: #e6edf3; }
   .prompt { fill: #3fb950; } .key { fill: #79c0ff; } .val { fill: #d2a8ff; }
   .accent { fill: #ffa657; font-weight: 600; } .dim { fill: #8b949e; } .title { fill: #8b949e; font-size: 13px; }
@@ -40,24 +52,30 @@
   @keyframes blink { 50% { opacity: 0; } }
   @media (prefers-reduced-motion: reduce) { .ln { animation: none !important; opacity: 1 !important; } }
 </style>
-<rect width="900" height="494" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect width="900" height="644" rx="12" fill="#0d1117" stroke="#30363d"/>
 <circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
 <text x="450.0" y="27" text-anchor="middle" class="title">karamjit — zsh</text>
 <text x="26" y="66" class="ln l0"><tspan class="prompt">karamjit@github:~$ </tspan>whoami</text>
-<text x="26" y="91" class="ln l1"><tspan class="key">Karamjit Verma</tspan> · Software Engineer · Full-Stack · <tspan class="accent">AWS Certified</tspan></text>
+<text x="26" y="91" class="ln l1"><tspan class="key">Karamjit Verma</tspan> · <tspan class="accent">Senior Software Engineer</tspan> @ <tspan class="val">OptiValue Tek</tspan> · Full-Stack</text>
 <text x="26" y="116" class="ln l2"><tspan class="prompt">karamjit@github:~$ </tspan>cat about.txt</text>
-<text x="26" y="141" class="ln l3">5 years building production web apps, APIs and cloud deployments.</text>
-<text x="26" y="166" class="ln l4"><tspan class="val">Ameha Technologies</tspan> · New Delhi, India</text>
-<text x="26" y="191" class="ln l5"><tspan class="prompt">karamjit@github:~$ </tspan>stack --top</text>
-<text x="26" y="216" class="ln l6"><tspan class="key">frontend</tspan>   Angular · React · JavaScript · TypeScript</text>
-<text x="26" y="241" class="ln l7"><tspan class="key">mobile  </tspan>   React Native</text>
-<text x="26" y="266" class="ln l8"><tspan class="key">backend </tspan>   Python · Flask · FastAPI</text>
-<text x="26" y="291" class="ln l9"><tspan class="key">cloud   </tspan>   AWS · Docker · CI/CD</text>
-<text x="26" y="316" class="ln l10"><tspan class="prompt">karamjit@github:~$ </tspan>ls ~/open-source</text>
-<text x="26" y="341" class="ln l11"><tspan class="accent">openmoderate/</tspan>   image &amp; video moderation  <tspan class="dim">· PyPI · CLIP deep learning</tspan></text>
-<text x="26" y="366" class="ln l12"><tspan class="accent">safetype/</tspan>       real-time text moderation <tspan class="dim">· npm · React/Vue/Angular</tspan></text>
-<text x="26" y="391" class="ln l13"><tspan class="prompt">karamjit@github:~$ </tspan>contact</text>
-<text x="26" y="416" class="ln l14"><tspan class="key">linkedin</tspan>  linkedin.com/in/karamjit-verma</text>
-<text x="26" y="441" class="ln l15"><tspan class="key">email   </tspan>  karamjitverma89@gmail.com</text>
-<text x="26" y="466" class="ln l15"><tspan class="prompt">karamjit@github:~$ </tspan><tspan class="cursor">█</tspan></text>
+<text x="26" y="141" class="ln l3">5+ years building production web apps, APIs and cloud deployments.</text>
+<text x="26" y="166" class="ln l4">Delhi, India · working remotely</text>
+<text x="26" y="191" class="ln l5"><tspan class="prompt">karamjit@github:~$ </tspan>cat experience.log</text>
+<text x="26" y="216" class="ln l6"><tspan class="key">2025–now  </tspan>  Senior Software Engineer · <tspan class="val">OptiValue Tek</tspan></text>
+<text x="26" y="241" class="ln l7"><tspan class="key">2025      </tspan>  Senior Software Engineer · <tspan class="val">InCred Financial Services</tspan></text>
+<text x="26" y="266" class="ln l8"><tspan class="key">2023–2025 </tspan>  Software Engineer        · <tspan class="val">Builder.ai</tspan></text>
+<text x="26" y="291" class="ln l9"><tspan class="key">2021–2023 </tspan>  SDE                      · <tspan class="val">Ameha Technologies</tspan></text>
+<text x="26" y="316" class="ln l10"><tspan class="key">cert      </tspan>  AWS Certified Solutions Architect – Associate <tspan class="dim">(2020–2023)</tspan></text>
+<text x="26" y="341" class="ln l11"><tspan class="prompt">karamjit@github:~$ </tspan>stack --top</text>
+<text x="26" y="366" class="ln l12"><tspan class="key">frontend</tspan>   Angular · React · JavaScript · TypeScript</text>
+<text x="26" y="391" class="ln l13"><tspan class="key">mobile  </tspan>   React Native</text>
+<text x="26" y="416" class="ln l14"><tspan class="key">backend </tspan>   Python · Flask · FastAPI</text>
+<text x="26" y="441" class="ln l15"><tspan class="key">cloud   </tspan>   AWS · Docker · CI/CD</text>
+<text x="26" y="466" class="ln l16"><tspan class="prompt">karamjit@github:~$ </tspan>ls ~/open-source</text>
+<text x="26" y="491" class="ln l17"><tspan class="accent">openmoderate/</tspan>   image &amp; video moderation  <tspan class="dim">· PyPI · CLIP deep learning</tspan></text>
+<text x="26" y="516" class="ln l18"><tspan class="accent">safetype/</tspan>       real-time text moderation <tspan class="dim">· npm · React/Vue/Angular</tspan></text>
+<text x="26" y="541" class="ln l19"><tspan class="prompt">karamjit@github:~$ </tspan>contact</text>
+<text x="26" y="566" class="ln l20"><tspan class="key">linkedin</tspan>  linkedin.com/in/karamjit-verma</text>
+<text x="26" y="591" class="ln l21"><tspan class="key">email   </tspan>  karamjitverma89@gmail.com</text>
+<text x="26" y="616" class="ln l21"><tspan class="prompt">karamjit@github:~$ </tspan><tspan class="cursor">█</tspan></text>
 </svg>

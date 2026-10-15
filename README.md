@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/terminal.svg" width="860"
-    alt="Animated terminal: whoami — Karamjit Verma, Software Engineer, Full-Stack, AWS Certified. 5 years building production web apps, APIs and cloud deployments at Ameha Technologies, New Delhi. Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker, CI/CD. Open source: openmoderate and SafeType.js.">
+    alt="Animated terminal: whoami — Karamjit Verma, Senior Software Engineer at OptiValue Tek, Full-Stack. 5+ years building production web apps, APIs and cloud deployments, Delhi, India. Experience: OptiValue Tek, InCred Financial Services, Builder.ai, Ameha Technologies. AWS Certified Solutions Architect – Associate (2020–2023). Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker, CI/CD. Open source: openmoderate and SafeType.js.">
 </p>
 
 <p align="center">
@@ -11,9 +11,10 @@
 
 ## About me
 
-I'm a software engineer with **5 years of experience** building production web and mobile applications end to end: Angular and React
-front ends, React Native mobile apps, Python APIs with Flask and FastAPI, and deployments on AWS. I care about software that is measured,
-secure and easy to adopt, and I publish open-source tools for trust & safety.
+I'm a **Senior Software Engineer at OptiValue Tek** with **5+ years of
+experience** building production web and mobile applications end to end: Angular and React front ends, React Native
+mobile apps, Python APIs with Flask and FastAPI, and deployments on AWS. I care about software that is measured, secure
+and easy to adopt, and I publish open-source tools for trust & safety.
 
 ## Tech stack
 
@@ -28,7 +29,20 @@ secure and easy to adopt, and I publish open-source tools for trust & safety.
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
 </p>
 
-**Also working with:** TypeScript · Docker · GitHub Actions · PyTorch · REST APIs · Linux · CI/CD
+**Also working with:** TypeScript · RxJS · WebSockets · Docker · Kubernetes · Elasticsearch · AWS Cognito · GitHub
+Actions · PyTorch · CI/CD
+
+## Experience
+
+| Period | Role | Company | Highlights |
+| --- | --- | --- | --- |
+| Aug 2025 – now | **Senior Software Engineer** | OptiValue Tek · remote | Large-scale JavaScript application development |
+| Jun – Jul 2025 | Senior Software Engineer | InCred Financial Services | Angular, large-scale development |
+| Apr 2023 – May 2025 | Software Engineer | Builder.ai | Angular 17 front end; WebSocket and pub-sub real-time communication; real-time charts (Highcharts); Docker and Kubernetes |
+| Jul 2021 – Apr 2023 | SDE | Ameha Technologies | Full-stack SaaS ([Siila](https://www.siila.io)): 8 Flask microservices with JWT auth, WebSocket chat, global search, Stripe payments; an education platform with AWS Cognito sign-in and React |
+| Feb – Jul 2021 | Software Engineer (intern) | Ameha Technologies | Angular, Flask REST APIs, Elasticsearch, MySQL, AWS |
+
+**Certification:** AWS Certified Solutions Architect – Associate (2020–2023)
 
 ## Open source
 
