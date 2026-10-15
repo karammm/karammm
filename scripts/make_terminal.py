@@ -6,6 +6,8 @@ Edit LINES below and re-run. Each line appears in turn, like a live terminal ses
 then the animation loops. Viewers with "reduce motion" switched on see the finished frame.
 """
 
+import hashlib
+import re
 from html import escape
 from pathlib import Path
 
@@ -112,7 +114,22 @@ def build() -> str:
     return "\n".join(parts)
 
 
+def bust_cache(readme: Path, svg: str) -> str:
+    """Point the README at terminal.svg?v=<content hash>.
+
+    GitHub serves the image with a cache lifetime, so browsers keep showing an old terminal
+    after it changes. A new query string per version makes every change show up at once.
+    """
+    version = hashlib.sha1(svg.encode("utf-8")).hexdigest()[:8]
+    text = readme.read_text(encoding="utf-8")
+    text = re.sub(r"assets/terminal\.svg(\?v=[0-9a-f]+)?", f"assets/terminal.svg?v={version}", text)
+    readme.write_text(text, encoding="utf-8")
+    return version
+
+
 if __name__ == "__main__":
-    out = Path(__file__).resolve().parent.parent / "assets" / "terminal.svg"
-    out.write_text(build(), encoding="utf-8")
-    print(f"wrote {out}")
+    root = Path(__file__).resolve().parent.parent
+    svg = build()
+    (root / "assets" / "terminal.svg").write_text(svg, encoding="utf-8")
+    version = bust_cache(root / "README.md", svg)
+    print(f"wrote assets/terminal.svg (README now points at ?v={version})")

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal.svg" width="860"
+  <img src="assets/terminal.svg?v=eea5d3dc" width="860"
     alt="Animated terminal: whoami — Karamjit Verma, Senior Software Engineer at OptiValue Tek, Full-Stack, AWS Certified. 5+ years building production web apps, APIs and cloud deployments, Gurugram, India. Experience: OptiValue Tek, InCred Financial Services, Builder.ai, Ameha Technologies. AWS Certified Solutions Architect – Associate. Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker, CI/CD. Open source: openmoderate and SafeType.js.">
 </p>
 
