@@ -20,7 +20,8 @@ LINES = [
     ("out", "5 years building production web apps, APIs and cloud deployments."),
     ("out", "{{Ameha Technologies|val}} · New Delhi, India"),
     ("cmd", "stack --top"),
-    ("out", "{{frontend|key}}   Angular · JavaScript · TypeScript"),
+    ("out", "{{frontend|key}}   Angular · React · JavaScript · TypeScript"),
+    ("out", "{{mobile  |key}}   React Native"),
     ("out", "{{backend |key}}   Python · Flask · FastAPI"),
     ("out", "{{cloud   |key}}   AWS · Docker · CI/CD"),
     ("cmd", "ls ~/open-source"),
@@ -78,7 +79,7 @@ def build() -> str:
         f'viewBox="0 0 {W} {height}" role="img" aria-labelledby="t d">',
         "<title id='t'>Karamjit Verma — terminal introduction</title>",
         "<desc id='d'>An animated terminal: Karamjit Verma, Software Engineer, full-stack and AWS "
-        "certified, 5 years of experience at Ameha Technologies in New Delhi. Stack: Angular, "
+        "certified, 5 years of experience at Ameha Technologies in New Delhi. Stack: Angular, React, React Native, "
         "JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker. Open source: openmoderate "
         "and SafeType.js. Contact: LinkedIn karamjit-verma.</desc>",
         f"<style>{css}</style>",

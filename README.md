@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/terminal.svg" width="860"
-    alt="Animated terminal: whoami — Karamjit Verma, Software Engineer, Full-Stack, AWS Certified. 5 years building production web apps, APIs and cloud deployments at Ameha Technologies, New Delhi. Stack: Angular, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker, CI/CD. Open source: openmoderate and SafeType.js.">
+    alt="Animated terminal: whoami — Karamjit Verma, Software Engineer, Full-Stack, AWS Certified. 5 years building production web apps, APIs and cloud deployments at Ameha Technologies, New Delhi. Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker, CI/CD. Open source: openmoderate and SafeType.js.">
 </p>
 
 <p align="center">
@@ -11,14 +11,16 @@
 
 ## About me
 
-I'm a software engineer with **5 years of experience** building production web applications end to end: Angular
-front ends, Python APIs with Flask and FastAPI, and deployments on AWS. I care about software that is measured,
+I'm a software engineer with **5 years of experience** building production web and mobile applications end to end: Angular and React
+front ends, React Native mobile apps, Python APIs with Flask and FastAPI, and deployments on AWS. I care about software that is measured,
 secure and easy to adopt, and I publish open-source tools for trust & safety.
 
 ## Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
@@ -71,7 +73,8 @@ secure and easy to adopt, and I publish open-source tools for trust & safety.
 
 ## What I work on
 
-- **Full-stack web applications:** Angular single-page apps backed by Python REST APIs.
+- **Full-stack web applications:** Angular and React single-page apps backed by Python REST APIs.
+- **Mobile apps:** cross-platform iOS and Android apps with React Native.
 - **APIs and services:** Flask and FastAPI services with authentication, validation and tests.
 - **Cloud and delivery:** AWS deployments, Docker, and CI/CD pipelines that release automatically.
 - **Trust & safety tooling:** content moderation for text, images and video.
