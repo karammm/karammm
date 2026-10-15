@@ -1,6 +1,6 @@
 <p align="center">
   <img src="assets/terminal.svg" width="860"
-    alt="Animated terminal: whoami — Karamjit Verma, Senior Software Engineer at OptiValue Tek, Full-Stack. 5+ years building production web apps, APIs and cloud deployments, Delhi, India. Experience: OptiValue Tek, InCred Financial Services, Builder.ai, Ameha Technologies. AWS Certified Solutions Architect – Associate (2020–2023). Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker, CI/CD. Open source: openmoderate and SafeType.js.">
+    alt="Animated terminal: whoami — Karamjit Verma, Senior Software Engineer at OptiValue Tek, Full-Stack, AWS Certified. 5+ years building production web apps, APIs and cloud deployments, Gurugram, India. Experience: OptiValue Tek, InCred Financial Services, Builder.ai, Ameha Technologies. AWS Certified Solutions Architect – Associate. Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker, CI/CD. Open source: openmoderate and SafeType.js.">
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Actions · PyTorch · CI/CD
 | Jul 2021 – Apr 2023 | SDE | Ameha Technologies | Full-stack SaaS ([Siila](https://www.siila.io)): 8 Flask microservices with JWT auth, WebSocket chat, global search, Stripe payments; an education platform with AWS Cognito sign-in and React |
 | Feb – Jul 2021 | Software Engineer (intern) | Ameha Technologies | Angular, Flask REST APIs, Elasticsearch, MySQL, AWS |
 
-**Certification:** AWS Certified Solutions Architect – Associate (2020–2023)
+**Certification:** AWS Certified Solutions Architect – Associate
 
 ## Open source
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="644" viewBox="0 0 900 644" role="img" aria-labelledby="t d">
 <title id='t'>Karamjit Verma — terminal introduction</title>
-<desc id='d'>An animated terminal: Karamjit Verma, Senior Software Engineer at OptiValue Tek, full-stack, 5+ years of experience, Delhi, India. Experience: OptiValue Tek, InCred Financial Services, Builder.ai, Ameha Technologies. AWS Certified Solutions Architect – Associate (2020–2023). Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker. Open source: openmoderate and SafeType.js. Contact: LinkedIn karamjit-verma.</desc>
+<desc id='d'>An animated terminal: Karamjit Verma, Senior Software Engineer at OptiValue Tek, full-stack, AWS certified, 5+ years of experience, Gurugram, India. Experience: OptiValue Tek, InCred Financial Services, Builder.ai, Ameha Technologies. AWS Certified Solutions Architect – Associate. Stack: Angular, React, React Native, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker. Open source: openmoderate and SafeType.js. Contact: LinkedIn karamjit-verma.</desc>
 <style>@keyframes l0 { 0%, 7.50% { opacity: 0 } 8.00%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
 @keyframes l1 { 0%, 11.67% { opacity: 0 } 12.17%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
 @keyframes l2 { 0%, 16.39% { opacity: 0 } 16.89%, 93.0% { opacity: 1 } 100% { opacity: 0 } }
@@ -56,16 +56,16 @@
 <circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
 <text x="450.0" y="27" text-anchor="middle" class="title">karamjit — zsh</text>
 <text x="26" y="66" class="ln l0"><tspan class="prompt">karamjit@github:~$ </tspan>whoami</text>
-<text x="26" y="91" class="ln l1"><tspan class="key">Karamjit Verma</tspan> · <tspan class="accent">Senior Software Engineer</tspan> @ <tspan class="val">OptiValue Tek</tspan> · Full-Stack</text>
+<text x="26" y="91" class="ln l1"><tspan class="key">Karamjit Verma</tspan> · <tspan class="accent">Senior Software Engineer</tspan> @ <tspan class="val">OptiValue Tek</tspan> · Full-Stack · <tspan class="accent">AWS Certified</tspan></text>
 <text x="26" y="116" class="ln l2"><tspan class="prompt">karamjit@github:~$ </tspan>cat about.txt</text>
 <text x="26" y="141" class="ln l3">5+ years building production web apps, APIs and cloud deployments.</text>
-<text x="26" y="166" class="ln l4">Delhi, India · working remotely</text>
+<text x="26" y="166" class="ln l4"><tspan class="val">OptiValue Tek</tspan> · Gurugram, India</text>
 <text x="26" y="191" class="ln l5"><tspan class="prompt">karamjit@github:~$ </tspan>cat experience.log</text>
 <text x="26" y="216" class="ln l6"><tspan class="key">2025–now  </tspan>  Senior Software Engineer · <tspan class="val">OptiValue Tek</tspan></text>
 <text x="26" y="241" class="ln l7"><tspan class="key">2025      </tspan>  Senior Software Engineer · <tspan class="val">InCred Financial Services</tspan></text>
 <text x="26" y="266" class="ln l8"><tspan class="key">2023–2025 </tspan>  Software Engineer        · <tspan class="val">Builder.ai</tspan></text>
 <text x="26" y="291" class="ln l9"><tspan class="key">2021–2023 </tspan>  SDE                      · <tspan class="val">Ameha Technologies</tspan></text>
-<text x="26" y="316" class="ln l10"><tspan class="key">cert      </tspan>  AWS Certified Solutions Architect – Associate <tspan class="dim">(2020–2023)</tspan></text>
+<text x="26" y="316" class="ln l10"><tspan class="key">cert      </tspan>  AWS Certified Solutions Architect – Associate</text>
 <text x="26" y="341" class="ln l11"><tspan class="prompt">karamjit@github:~$ </tspan>stack --top</text>
 <text x="26" y="366" class="ln l12"><tspan class="key">frontend</tspan>   Angular · React · JavaScript · TypeScript</text>
 <text x="26" y="391" class="ln l13"><tspan class="key">mobile  </tspan>   React Native</text>
