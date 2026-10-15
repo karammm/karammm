@@ -1,82 +1,84 @@
-# Karamjit Verma
-Hi, I'm Karamjit Verma👋 Versatile computer science student experienced in Programming, Backend development, software development, Cloud Deployment, and DevOps consultant.  I want to work as a software developer engineer.. Aiming to utilize my problem solving, coding and management skills for the betterment of the community. Work experience with people at multiple level.
-
-
-<!--## My Previous Projects 💻:
-🌟 <b>Collaborative Clustering:</b><br>
-    <ul><li>Improves clustering process by combining different cluster algorithms.</li>
-      <li>Collaborate different clustering algorithms k-mean, k-medoids, DBSCAN and hierarchical.</li>
-    </ul>
-🌀 <b>Phishing Urls Detector:</b><br> 
-    <ul><li>Detect phishing URLs using ML technology independent of the blacklist, with an accuracy of 89%.</li>
-        <li>Phishing URL Detector has both web and browser extension applications.</li>
-    </ul>
-🍏 <b>Machine learning  Tool:</b><br>
-    <ul><li>Tools for non-tech people to use machine learning technology without any intermediate knowledge.</li>
-        <li>The tool can perform multiple object classification and train model based on cluster object image data.</li>
-    </ul>--->
-
-## Familiar with ⚡:
-<ul><li>Algorithms and Data structure</li>
-  <li>AWS Cloud</li>
-  <li>DevOps</li>
-  <li>JavaFx</li>
-  <li>Elastic Search</li>
-  <li>Angular</li>
-  <li>Docker</li>
-  <li>Linux</li>
-  <li>Languages<ul>
-    <li>Java</li>
-    <li>Java Script</li>
-    <li>Python</li>
-    </ul>
-  </li>
-</ul>
-
-- [Check My Repositories](https://github.com/karammm?tab=repositories)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karammm&show_icons=true&theme=gotham" alt="karammm" />
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karammm&layout=compact&theme=vue-dark" />
-    
-## Languages and Tools 🛠️:
 <p align="center">
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
-<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Docker" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Ansible" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
-<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Kubernetes" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Angular" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="AWS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<br />
-<br />
-<p/>
- 
-## Find me around the web 🌎:
-- Sharing updates on <a href="https://www.linkedin.com/in/karamjit-verma/">LinkedIn</a> 💼
-- Wanna chat? :point_right: @ me on <a href="mailto:karamjitverma89@gmail.com">Gmail</a> 📧
-    
+  <img src="assets/terminal.svg" width="860"
+    alt="Animated terminal: whoami — Karamjit Verma, Software Engineer, Full-Stack, AWS Certified. 5 years building production web apps, APIs and cloud deployments at Ameha Technologies, New Delhi. Stack: Angular, JavaScript, TypeScript, Python, Flask, FastAPI, AWS, Docker, CI/CD. Open source: openmoderate and SafeType.js.">
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/karamjit-verma/"><img src="https://img.shields.io/badge/LinkedIn-karamjit--verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:karamjitverma89@gmail.com"><img src="https://img.shields.io/badge/Email-karamjitverma89-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/karammm?tab=repositories"><img src="https://img.shields.io/badge/Repositories-browse-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+</p>
 
-<!--
-**Hritiksum/Hritiksum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm a software engineer with **5 years of experience** building production web applications end to end: Angular
+front ends, Python APIs with Flask and FastAPI, and deployments on AWS. I care about software that is measured,
+secure and easy to adopt, and I publish open-source tools for trust & safety.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=Hritiksum) ![Profile Views](https://komarev.com/ghpvc/?username=Hritiksum&color=blue)-->
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+</p>
+
+**Also working with:** TypeScript · Docker · GitHub Actions · PyTorch · REST APIs · Linux · CI/CD
+
+## Open source
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/karammm/openmoderate-image-moderation">openmoderate</a></h3>
+      <p>Open-source, self-hosted <b>image &amp; video content moderation</b> for Python: an open alternative to AWS
+      Rekognition's moderation API.</p>
+      <ul>
+        <li>CLIP deep-learning model with zero-shot classification and fine-tuning</li>
+        <li>82% recall with 4% false positives on a public, hand-reviewed benchmark</li>
+        <li>Library, CLI, REST API, Docker, and one-line FastAPI / Flask / Django integration</li>
+      </ul>
+      <p>
+        <a href="https://pypi.org/project/openmoderate/"><img src="https://img.shields.io/pypi/v/openmoderate?label=pypi&color=0969da" alt="PyPI"></a>
+        <img src="https://img.shields.io/badge/Python-FastAPI%20%C2%B7%20PyTorch-3776AB" alt="Python, FastAPI, PyTorch">
+      </p>
+      <p><a href="https://karammm.github.io/openmoderate-image-moderation/">Docs</a> ·
+         <a href="https://karammm.github.io/openmoderate-image-moderation/benchmarks/">Benchmarks</a> ·
+         <a href="https://github.com/karammm/openmoderate-image-moderation">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/karammm/safetype">SafeType.js</a></h3>
+      <p>Open-source <b>real-time text moderation</b> for any text field or editor: profanity, hate speech and
+      harassment, handled as people type.</p>
+      <ul>
+        <li>Mask, suggest, warn or block, without replacing your editor</li>
+        <li>Packages for React, Vue, Angular, plain DOM, and a rich-text editor</li>
+        <li>Same rules in Node and Python for server-side enforcement</li>
+      </ul>
+      <p>
+        <a href="https://www.npmjs.com/package/@safetype/core"><img src="https://img.shields.io/npm/v/@safetype/core?label=npm&color=0a7a6b" alt="npm"></a>
+        <img src="https://img.shields.io/badge/TypeScript-Angular%20%C2%B7%20React%20%C2%B7%20Vue-3178C6" alt="TypeScript, Angular, React, Vue">
+      </p>
+      <p><a href="https://karammm.github.io/safetype/docs/">Docs</a> ·
+         <a href="https://karammm.github.io/safetype/">Playground</a> ·
+         <a href="https://github.com/karammm/safetype">Code</a></p>
+    </td>
+  </tr>
+</table>
+
+## What I work on
+
+- **Full-stack web applications:** Angular single-page apps backed by Python REST APIs.
+- **APIs and services:** Flask and FastAPI services with authentication, validation and tests.
+- **Cloud and delivery:** AWS deployments, Docker, and CI/CD pipelines that release automatically.
+- **Trust & safety tooling:** content moderation for text, images and video.
+
+## Let's connect
+
+I'm happy to talk about full-stack engineering, Python APIs, AWS or content moderation. The best way to reach me is
+[LinkedIn](https://www.linkedin.com/in/karamjit-verma/) or [email](mailto:karamjitverma89@gmail.com).
+
+<sub>The terminal above is a generated SVG: see <a href="scripts/make_terminal.py">scripts/make_terminal.py</a>.</sub>
